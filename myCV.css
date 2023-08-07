@@ -1,0 +1,33 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.flex-container{
+    display: flex;
+    
+}
+.left{
+    width: 40%;
+    border-right: 5px solid black;
+    padding: 5%;
+    text-align: center;
+    background-color:silver;
+
+}
+#title{
+    text-align: left;
+    font-size: 18px
+}
+img{
+    border-radius: 50%;
+    width: 20%;
+    height: auto;
+    float: right;
+    
+}
+
+.right{
+    width: 40%;
+    padding: 5%;
+    text-align: left;
+}
+
